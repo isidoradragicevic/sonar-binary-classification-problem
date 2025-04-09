@@ -47,7 +47,7 @@ The numbers in the labels are in increasing order of aspect angle, but they do n
 
 7. **Hyperparameter Tuning**:
     - Tuned ExtraTreesClassifier model, resulting in an improved accuracy of **88%** using ET with parametar:
-      - `'n_extimators': 250`
+      - `'n_estimators': 250`
 
 6. **Final Results**:
     - Displayed the confusion matrix and classification report to assess the performance of the final model.
